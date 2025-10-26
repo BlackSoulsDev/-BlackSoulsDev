@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="./assets/header.gif" width="480" height="240"/>
+  <img src="./assets/profile.gif" width="480" height="240"/>
 </p>
 
 <p align="center">
