@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AkitaDev"><img src="https://img.shields.io/github/followers/AkitaDev?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/BlackSoulsDev"><img src="https://img.shields.io/github/followers/BlackSoulsDev?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://t.me/AkitaSX"><img src="https://img.shields.io/badge/Telegram-@AkitaSX-blue?logo=telegram" alt="Telegram"></a>
   <a href="mailto:blacksouls@gmail.com"><img src="https://img.shields.io/badge/Email-you@example.com-red?logo=gmail"></a>
 </p>
@@ -31,17 +31,17 @@
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| 🕹️ [GameEngine-X](https://github.com/AkitaDev/GameEngine-X) | Experimental 2D/3D engine written in Rust. | Rust, ECS |
-| ⚙️ [CLI Tools Pack](https://github.com/AkitaDev/cli-tools) | Handy command-line utilities for developers. | Python |
-| ☁️ [FastAPI Auth Boilerplate](https://github.com/AkitaDev/auth-template) | Scalable FastAPI starter with JWT and OAuth2. | FastAPI, Docker |
+| 🕹️ [GameEngine-X](https://github.com/BlackSoulsDev/GameEngine-X) | Experimental 2D/3D engine written in Rust. | Rust, ECS |
+| ⚙️ [CLI Tools Pack](https://github.com/BlackSoulsDev/cli-tools) | Handy command-line utilities for developers. | Python |
+| ☁️ [FastAPI Auth Boilerplate](https://github.com/BlackSoulsDev/auth-template) | Scalable FastAPI starter with JWT and OAuth2. | FastAPI, Docker |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AkitaDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkitaDev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BlackSoulsDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSoulsDev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 🌀 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkitaDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackSoulsDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -68,6 +68,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkitaDev&label=Profile%20views&color=0e75b6&style=flat" alt="view count" />
+  <img src="https://komarev.com/ghpvc/?username=BlackSoulsDev&label=Profile%20views&color=0e75b6&style=flat" alt="view count" />
 </p>
 
