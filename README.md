@@ -1,14 +1,12 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="240"/>
+  <img src="./assets/header.gif" width="480" height="240"/>
 </p>
-
-<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Akita</span>!</h1>
 
 <p align="center">
   <a href="https://github.com/AkitaDev"><img src="https://img.shields.io/github/followers/AkitaDev?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://t.me/akita_sx"><img src="https://img.shields.io/badge/Telegram-@akita__sx-blue?logo=telegram" alt="Telegram"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-you@example.com-red?logo=gmail"></a>
+  <a href="https://t.me/AkitaSX"><img src="https://img.shields.io/badge/Telegram-@AkitaSX-blue?logo=telegram" alt="Telegram"></a>
+  <a href="mailto:blacksouls@gmail.com"><img src="https://img.shields.io/badge/Email-you@example.com-red?logo=gmail"></a>
 </p>
 
 ---
@@ -16,7 +14,7 @@
 ### 💫 About Me
 
 🧠 Full-stack developer with a love for **clean architecture** and **dark aesthetics**.  
-🔥 Passionate about **Rust**, **Python**, and **open-source hacking**.  
+🔥 Passionate about **C++**, **Python**, and **open-source hacking**.  
 🌙 Coding by night, dreaming in code by day.
 
 ---
