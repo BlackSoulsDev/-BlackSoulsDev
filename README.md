@@ -6,23 +6,24 @@
 <p align="center">
   <a href="https://github.com/BlackSoulsDev"><img src="https://img.shields.io/github/followers/BlackSoulsDev?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://t.me/AkitaSX"><img src="https://img.shields.io/badge/Telegram-@AkitaSX-blue?logo=telegram" alt="Telegram"></a>
-  <a href="mailto:blacksouls@gmail.com"><img src="https://img.shields.io/badge/Email-you@example.com-red?logo=gmail"></a>
+  <a href="mailto:blacksouls@gmail.com"><img src="https://img.shields.io/badge/Email-blacksouls@gmail.com-red?logo=gmail"></a>
 </p>
 
 ---
 
 ### 💫 About Me
 
-🧠 Full-stack developer with a love for **clean architecture** and **dark aesthetics**.  
-🔥 Passionate about **C++**, **Python**, and **open-source hacking**.  
-🌙 Coding by night, dreaming in code by day.
+💻 I build **websites**, write **automation scripts in Python**, and develop **C++ applications**.  
+🧩 I'm deeply interested in **reverse engineering**, **system internals**, and **cybersecurity research**.  
+⚡ Combining code and chaos — crafting tools, breaking limits, and securing systems.  
+🌑 Always exploring the dark side of technology to make the light shine brighter.
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,typescript,react,nodejs,fastapi,postgres,docker,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,html,css,js,linux,docker,git,vscode,fastapi,bash" />
 </p>
 
 ---
@@ -31,9 +32,9 @@
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| 🕹️ [GameEngine-X](https://github.com/BlackSoulsDev/GameEngine-X) | Experimental 2D/3D engine written in Rust. | Rust, ECS |
-| ⚙️ [CLI Tools Pack](https://github.com/BlackSoulsDev/cli-tools) | Handy command-line utilities for developers. | Python |
-| ☁️ [FastAPI Auth Boilerplate](https://github.com/BlackSoulsDev/auth-template) | Scalable FastAPI starter with JWT and OAuth2. | FastAPI, Docker |
+| 🧠 [ReScope](https://github.com/BlackSoulsDev/ReScope) | Reverse engineering toolkit for binary analysis and patching. | C++, Python |
+| ⚙️ [WebForge](https://github.com/BlackSoulsDev/WebForge) | Lightweight backend starter for Python web apps. | Flask, FastAPI |
+| 🕷️ [AutoRecon](https://github.com/BlackSoulsDev/AutoRecon) | Recon & scanning automation for pentesters. | Python, Bash |
 
 ---
 
@@ -63,11 +64,10 @@
 ---
 
 ### ⚡ Fun Fact
-> "Code is like poetry — it’s not about writing, it’s about feeling it."
+> "I don’t just write code — I reverse it, dissect it, and rebuild it stronger."
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlackSoulsDev&label=Profile%20views&color=0e75b6&style=flat" alt="view count" />
 </p>
-
